@@ -1,0 +1,42 @@
+h1{
+
+color: gold;
+background-color: black;
+text-align: center;
+text-decoration:;
+font-size: 50px;
+font-style: oblique;
+letter-spacing: 20px;
+}
+h3{
+color: black;   
+background-color: yellow;
+text-align: center;
+font-style: italic;
+font-size: 20px;
+letter-spacing: 12px;
+}
+h2{
+    color:rgba(252, 248, 248, 0.96);
+    background-color:green;
+text-align:center;
+font-style: italic;
+font-size: 20px;
+letter-spacing: 9px;
+}
+
+p{
+    color:rgb(4, 4, 4);
+    background-color: rgb(0, 255, 21);
+    font-style: italic;
+    font-family:'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+
+body{
+    background-image: url(maxresdefault.jpg);
+background-size:
+
+}
